@@ -1,0 +1,11 @@
+{
+  "name": "slush-test",
+  "version": "0.1.0",
+  "description": "An awesome Bootstrap app",
+  "dependencies": {
+    "bootstrap": "latest",
+    "modernizr": "latest",
+    "jquery-legacy": "jquery#1.11",
+    "jquery-modern": "jquery#2"
+  }
+}
